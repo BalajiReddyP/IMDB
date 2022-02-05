@@ -287,4 +287,4 @@ class WatchDetailAV(APIView):
 #         movie.delete()
 #         return Response(status=status.HTTP_204_NO_CONTENT)
 
-# created new ticket005
+# created new ticket006
