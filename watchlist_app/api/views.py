@@ -293,8 +293,4 @@ class WatchDetailAV(APIView):
 
 #created new ticket008
 
-<<<<<<< HEAD
 #created new ticket009
-=======
-#created new ticket012
->>>>>>> 811ee6b644b910a8250324e7d963e7a0ef1e8876
